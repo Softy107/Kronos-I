@@ -5,7 +5,7 @@ Here is where I got the idea from : https://www.youtube.com/watch?v=g3fMBdLTMYM&
 A soundfont for free use in Black MIDI videos, editing, or other uses.
 
 Contains a total of :
-- 10 samples (C, F#) - Might get an update
+- 10 samples (C, F#)
 - 5 Versions to choose from
 - 3 Cherry piano samples for bass boost
 - Filter cutoff for higher keys
