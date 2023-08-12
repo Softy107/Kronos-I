@@ -2,6 +2,8 @@
 An Upright piano I bought for soundfont recording. Detuned 6 keys for a Bell like sound.
 Here is where I got the idea from : https://www.youtube.com/watch?v=g3fMBdLTMYM&t=244s / at 4:04
 
+You can find the normally tuned version here : https://github.com/Softy107/Old-Hupfeld-Leipzig
+
 A soundfont for free use in Black MIDI videos, editing, or other uses.
 
 Contains a total of :
